@@ -6,6 +6,15 @@
 *Result:*
 
 ![image](https://github.com/AyaKhaledSaif/Music-Recommendation-using-Kmeans-KNN/assets/112936318/396fe517-1eb8-4321-a8c3-6c0ca2e3c199)
+# Machine Learning Models:
+- K-means
+- KNN
+# Requirements:
+- python3
+- requests library
+- pandas, NumPy
+- fuzzy-wuzzy, pickle, flask library
+- Collab Notebook
 
 
 
